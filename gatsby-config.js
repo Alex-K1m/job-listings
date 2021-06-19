@@ -1,4 +1,4 @@
-const siteMetadata = require('@frontend/site-meta');
+const siteMetadata = require('./siteMeta');
 const path = require('path');
 
 const pathPrefix = path.join(siteMetadata.baseurl, 'job-listings');
