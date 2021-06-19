@@ -1,7 +1,6 @@
 const siteMetadata = require('./siteMeta');
-const path = require('path');
 
-const pathPrefix = path.join(siteMetadata.baseurl, 'job-listings');
+const pathPrefix = siteMetadata.baseurl;
 
 module.exports = {
   flags: {
