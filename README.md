@@ -13,7 +13,7 @@ Users should be able to:
 ## Links
 
 - [Solution](https://www.frontendmentor.io/solutions/job-listings-with-react-sass-modules-and-snapshot-testing-with-jest-ezLnOJM7L)
-- [Live Site](https://alex-k1m.github.io/job-listings/)
+- [Live Site](https://alex-kim-dev.github.io/job-listings/)
 
 ## My process
 
